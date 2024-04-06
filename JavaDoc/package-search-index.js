@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.ZPO.app"},{"l":"com.ZPO.app.data"},{"l":"com.ZPO.app.exceptions"},{"l":"com.ZPO.app.views"},{"l":"com.ZPO.app.views.list"}];updateSearchResults();
